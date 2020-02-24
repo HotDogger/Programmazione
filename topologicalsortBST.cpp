@@ -1,11 +1,3 @@
-//
-//  main.cpp
-//  topological-sort
-//
-//  Created by Giuseppe Marletta on 17/02/2020.
-//  Copyright © 2020 Giuseppe Marletta. All rights reserved.
-//
-
 #include <fstream>
 
 #define WHITE 0
