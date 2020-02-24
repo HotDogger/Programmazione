@@ -1,11 +1,3 @@
-//
-//  main.cpp
-//  mergesort2
-//
-//  Created by Giuseppe Marletta on 19/02/2020.
-//  Copyright © 2020 Giuseppe Marletta. All rights reserved.
-//
-
 #include <fstream>
 
 using namespace std ;
