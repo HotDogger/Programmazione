@@ -1,11 +1,3 @@
-//
-//  main.cpp
-//  insertionsort
-//
-//  Created by Giuseppe Marletta on 04/02/2020.
-//  Copyright © 2020 Giuseppe Marletta. All rights reserved.
-//
-
 #include <iostream>
 #include <fstream>
 
